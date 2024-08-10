@@ -89,3 +89,7 @@
 </p>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshs03&theme=dark" alt="sureshs03" /></p>
+<br>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
