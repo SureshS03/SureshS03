@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C5612AQGI9Obf7f-lMQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1648456393948?e=1728518400&v=beta&t=sIBdMaGF8iVNcyOdGuUlnIJ-NrWv4N8me74QFZwSSy0)
 <h1 align="center">Hello 👋, I'm Suresh</h1>
 <h3 align="center">I am a self-learner who grows through learning documentation and solving errors</h3>
-<img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshs03&label=Profile%20views&color=0e75b6&style=flat" alt="sureshs03" /> </p>
 
