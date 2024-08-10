@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/SureshS03?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
 - 💬 Ask me about **Python, Web Development, Algorithm**
 
