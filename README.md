@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
-- 💬 Ask me about **Python, Web Development, Algorithm**
+- 💬 Ask me about **Python, Web Development, Algorithms**
 
 - 📫 How to reach me **suthamani51@gmail.com**
 
@@ -85,7 +85,7 @@
 
 <p algin="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshs03&show_icons=true&locale=en&layout=compact&theme=dark" alt="sureshs03" />
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sureshs03&show_icons=true&locale=en&theme=dark" alt="sureshs03" />
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=sureshs03&show_icons=true&locale=en&theme=dark" alt="sureshs03" />
 </p>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshs03&theme=dark" alt="sureshs03" /></p>
