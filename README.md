@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshs03&label=Profile%20views&color=0e75b6&style=flat" alt="sureshs03" /> </p>
 
-- 🌱 I’m currently working on Projects and hackathons
+- 🌱 I’m currently working on Flutter
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
