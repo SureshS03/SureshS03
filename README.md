@@ -1,4 +1,4 @@
-![Header]()
+![Header](assets/header.png)
 <h1 align="center">Hello 👋, I'm Suresh</h1>
 <h3 align="center">I am a self-learner who grows through learning documentation and solving errors</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
