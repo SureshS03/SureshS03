@@ -30,6 +30,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="javascript" width="40" height="40"/> 
+  </a>
   <br>
   <h3> Web Development Languages and Tools </h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -43,6 +46,11 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <br>
+    <h3> App Development</h3>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="html5" width="40" height="40"/> 
   </a>
   <br>
   <h3> Framework & Libraries </h3>
