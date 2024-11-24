@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
-- 💬 Ask me about **Python, Web Development, Algorithms**
+- 💬 Ask me about **Python, Cross-platform application development Development, Algorithms**
 
 - 📫 How to reach me **suthamani51@gmail.com**
 
@@ -26,12 +26,12 @@
   <h3> Programming Languages </h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="javascript" width="40" height="40"/> 
+  </a>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="javascript" width="40" height="40"/> 
   </a>
   <br>
   <h3> Web Development Languages and Tools </h3>
