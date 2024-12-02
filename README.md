@@ -93,7 +93,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=sureshs03&show_icons=true&locale=en&theme=dark" alt="sureshs03" />
 </p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshs03&theme=dark" alt="sureshs03"/></p>
 <br>
 
 <p align="center">
