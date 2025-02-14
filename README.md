@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
-- 💬 Ask me about **Python, Cross-platform application development Development, Algorithms**
+- 💬 Ask me about **Python, Flutter,Cross-platform application development Development, Algorithms**
 
 - 📫 How to reach me **suthamani51@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f-rCxZQv60bA7FCRDQDNhELqkwG5JAyb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pzTKIh2ldfbTcwMqJiyAku0OnorfuNm_/view?usp=sharing)
 
 # **_Connect with me:_**
 <p align="left">
