@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshs03&label=Profile%20views&color=0e75b6&style=flat" alt="sureshs03" /> </p>
 
-- 🌱 I’m currently working on Flutter
+- 🌱 I’m currently working on Go
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
@@ -30,8 +30,8 @@
     <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="javascript" width="40" height="40"/> 
   </a>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="javascript" width="50" height="50"/> 
   </a>
   <br>
   <h3> Web Development Languages and Tools </h3>
