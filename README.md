@@ -18,8 +18,6 @@
 # **_Connect with me:_**
 <p align="left">
 <a href="https://linkedin.com/in/sureshs03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sureshs03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suthamani51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suthamani51" height="30" width="40" /></a>
-</p>
 
 # **_Languages and Tools:_**
 <p align="left">
