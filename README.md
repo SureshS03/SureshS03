@@ -24,14 +24,14 @@
 # **_Languages and Tools:_**
 <p align="left">
   <h3> Programming Languages </h3>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" alt="javascript" width="50" height="50"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="javascript" width="40" height="40"/> 
   </a>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="javascript" width="50" height="50"/> 
   </a>
   <br>
   <h3> Web Development Languages and Tools </h3>
