@@ -48,6 +48,13 @@
     <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="html5" width="40" height="40"/> 
   </a>
   <br>
+  <h3> DB </h3>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://en.vetores.org/wp-content/uploads/postgresql-768x432.png" alt="postgressql" width="40" height="40"/> 
+  </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="40" height="40"/> 
+  </a>
   <h3> OS </h3>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
