@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suthamani51@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19he3I6vC6Er1JGQXKPQb_ugCL3L8s3f9/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r7mzqjsv3g-GxZl6TDVCEit9VL9DoSsb/view?usp=sharing)
 
 # **_Connect with me:_**
 <p align="left">
