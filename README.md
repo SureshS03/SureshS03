@@ -3,13 +3,11 @@
 <h3 align="center">I am a self-learner who grows through learning documentation and solving errors</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshs03&label=Profile%20views&color=0e75b6&style=flat" alt="sureshs03" /> </p>
-
 - 🌱 I’m currently working on My and friends Projects
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/SureshS03?tab=repositories)
 
-- 💬 Ask me about **GO, Python, Flutter, Cross-platform application development Development, Algorithms**
+- 💬 Ask me about **GO, Python, Flutter, System Design, DevOps, Algorithms**
 
 - 📫 How to reach me **suthamani51@gmail.com**
 
