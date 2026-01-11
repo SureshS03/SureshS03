@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" title="Arch" alt="I use arch btw" width="40" height="40"/> 
+    <img src="https://github.com/JotaRandom/archlinux-artwork/blob/master/logos/archlinux-vert-light.svg" title="Arch" alt="I use arch btw" width="40" height="40"/> 
   </a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="40" height="40">
@@ -90,6 +90,7 @@
 <hr>
 
 <p algin="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshS03&layout=compact)
   <img width="400" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SureshS03&theme=dark" alt="sureshs03" />
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=sureshs03&show_icons=true&locale=en&theme=dark" alt="sureshs03" />
 </p>
