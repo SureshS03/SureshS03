@@ -90,7 +90,6 @@
 <hr>
 
 <p algin="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SureshS03&layout=compact)
   <img width="400" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SureshS03&theme=dark" alt="sureshs03" />
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=sureshs03&show_icons=true&locale=en&theme=dark" alt="sureshs03" />
 </p>
