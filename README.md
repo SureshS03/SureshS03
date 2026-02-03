@@ -67,7 +67,7 @@
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="40" height="40">
   </a>
-  <h3> Tools </h3>
+  <h3> DevOps </h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -77,14 +77,21 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
     <img src="https://vectorified.com/images/kubernetes-icon-31.png" alt="git" width="40" height="40"/> 
   </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="gcp" width="40" height="40"/> 
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" alt="jenkins" width="40" height="40"/> 
+  </a>
+  </a>
+    <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> 
+    <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_-768x871.png" alt="terraform" width="40" height="40"/> 
   </a>
   
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://www.pngfind.com/pngs/m/597-5975946_microsoft-azure-logo-svg-hd-png-download.png" alt="gcp" width="40" height="40"/>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="gcp" width="40" height="40"/> 
+  </a>
 </p>
 <br>
 <hr>
